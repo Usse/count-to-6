@@ -1,1 +1,1 @@
-module.exports = (message, times = message.length) => `${message}${'!'.repeat(times)}`;
+module.exports = (message, times = message.length) => `${message}${"!".repeat(times)}`;
